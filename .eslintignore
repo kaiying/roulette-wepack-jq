@@ -1,0 +1,4 @@
+/fake/index.js
+webpack.config.js
+/event/*
+/node_module/*
